@@ -267,7 +267,6 @@ label{
                                
                                 <i class="bi bi-phone-fill icon-large"></i>
                                 <span>Produtos</span>
-                                <i id="indicator" class="bi bi-caret-left-fill indicator"></i>
                             </a>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="pedidos.php"><i class="bi bi-basket2-fill icon-large"></i> Pedidos</a></li>
